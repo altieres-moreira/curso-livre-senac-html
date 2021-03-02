@@ -7,3 +7,10 @@ charset="UTF-8" = codificação para exibir acentos e simbolos
 <p> = paragrafo browser ignora pulo de linha na codificação
 <img src = tag para imagem on o src signigica source(ou seja local da imagem)
 <img > = tag que não fecha com barra
+
+
+formatação no CSS
+pode ser utilizado o id="nome_do_id"  para identificar nos arquivos index e editar nos arquivos css
+
+em caso de utilizar uma mesma formatação em mais de um "objeto" do html a boa pratica é usar uma classe
+classe é feita com um ponto+nomedaclasse ex= .vermelho
