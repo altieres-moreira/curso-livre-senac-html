@@ -1,0 +1,9 @@
+tag meta não fecha
+<head> cabeçalho da pagina
+<body> corpo da pagina (site)
+meta é onde tem os atributos, os atributos aparecem entre aspas
+charset="UTF-8" = codificação para exibir acentos e simbolos
+<title> = titulo do site
+<p> = paragrafo browser ignora pulo de linha na codificação
+<img src = tag para imagem on o src signigica source(ou seja local da imagem)
+<img > = tag que não fecha com barra
